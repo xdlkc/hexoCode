@@ -2,6 +2,7 @@
 title: MySQL知识点
 date: 2019-08-27 19:56:22
 tags:
+categories: mysql
 ---
 
 ### JOIN

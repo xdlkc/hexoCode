@@ -1,7 +1,7 @@
 ---
 title: LeetCode记录
 date: 2019-09-01 10:45:54
-tags:
+tags: code
 ---
 
 
