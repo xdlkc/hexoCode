@@ -2,8 +2,10 @@
 title: JUC包概述
 date: 2019-09-11 22:30:05
 tags: java
-categories: java
+categories: Java
 ---
+
+<!--more-->
 
 AbstractOwnableSynchronizer
 

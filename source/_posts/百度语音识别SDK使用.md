@@ -2,7 +2,7 @@
 title: 百度语音识别SDK使用
 date: 2018-04-28 21:18:04
 tags:
-categories: android
+categories: Android
 ---
 
 （待完成）

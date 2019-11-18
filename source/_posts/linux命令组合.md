@@ -2,7 +2,7 @@
 title: linux命令组合
 date: 2018-05-03 17:12:17
 tags:
-categories: linux
+categories: Linux
 ---
 
 # Linux命令组合

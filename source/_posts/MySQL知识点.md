@@ -2,8 +2,10 @@
 title: MySQL知识点
 date: 2019-08-27 19:56:22
 tags:
-categories: mysql
+categories: MySQL
 ---
+
+<!--more-->
 
 ### JOIN
 
@@ -45,3 +47,11 @@ bin_log
 master IO线程，slave IO线程，SQL线程
 
 ![image-20190903122054120](https://tva1.sinaimg.cn/large/006y8mN6ly1g6m7mllo88j30um0diank.jpg)
+
+## 日志
+
+redo log：保证crash safe能力，InnoDB提供
+
+binlog：MySQL Server层提供的归档日志
+
+两阶段提交保证数据恢复
