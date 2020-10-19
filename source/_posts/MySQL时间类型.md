@@ -5,9 +5,7 @@ tags:
 categories: MySQL
 ---
 
-Mysql关于时间有三种存储类型,是date,datetime,timestamp,三种的大小,表示格式,注意事项也有所不同,业务上碰到了有疑惑所以记录一下不同（历史文章归档）
-
-<!--more-->
+Mysql关于时间有三种存储类型,是date,datetime,timestamp,三种的大小,表示格式,注意事项也有所不同,业务上碰到了有疑惑所以记录一下不同（历史文章归档）<!--more-->
 
 - date
 

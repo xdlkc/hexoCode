@@ -55,3 +55,15 @@ redo log：保证crash safe能力，InnoDB提供
 binlog：MySQL Server层提供的归档日志
 
 两阶段提交保证数据恢复
+
+
+
+## 常用SQL
+
+```mysql
+# 创建用户
+create user 'cattle'@'127.0.0.1' identified by '';
+# 授权
+grant all  privileges  on cattle.* to 'cattle'@'127.0.0.1';
+```
+

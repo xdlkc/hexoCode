@@ -52,7 +52,8 @@ highlight:
 index_generator:
   path: ""
   per_page: 10
-  order_by: -date
+  # date(创建时间),updated(更新时间)
+  order_by: -updated
 
 # Category & Tag
 default_category: uncategorized

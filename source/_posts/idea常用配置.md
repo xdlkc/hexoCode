@@ -25,3 +25,16 @@ Idea java文件头：
  */
 ```
 
+
+
+## 常用插件
+
+- Alibaba Java Coding Guidelines：阿里巴巴出品的java代码风格检测插件
+- Bash Support：bash相关支持插件
+- Git Commit Template：git commit信息填写模板，用于规范化git提交内容
+- GitLab Projects：GitLab项目插件，主要用来提MR等
+- JProfiler：与JProfile本身结合的插件
+- Lombok
+- Maven Helper：能够检测pom文件中包含的重复依赖问题
+- Sonar Lint：Sonar检测工具，能够与公司内的sonar平台结合使用，在本地就可以执行sonar检测
+- YAML/Ansible Support
